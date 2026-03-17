@@ -122,4 +122,4 @@ Tirana faces challenges in urban waste management:
 - **Scalability:** Works now with simulated data; ready for real sensors in the future.
 
   Documentation:
- [Stakeholders Diagram](docs/stakeholders.md)
+ [Stakeholders Diagram](docs/onion.diagram.md)
