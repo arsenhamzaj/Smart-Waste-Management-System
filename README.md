@@ -120,3 +120,6 @@ Tirana faces challenges in urban waste management:
 - **Accountability:** Logs all collections, maintenance, and reports.
 - **Sustainability:** Better recycling, fewer emissions.
 - **Scalability:** Works now with simulated data; ready for real sensors in the future.
+
+  Documentation:
+ [Stakeholders Diagram](docs/stakeholders.md)
