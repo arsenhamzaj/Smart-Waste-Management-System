@@ -123,5 +123,5 @@ Tirana faces challenges in urban waste management:
 
   ##Documentation:
  <a href="onion.dia2.png">
-  <img src="onion.diagram.png" width="500"/>
+  <img src="onion.dia2.png" width="500"/>
 </a>
